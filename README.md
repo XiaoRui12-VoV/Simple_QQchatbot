@@ -3,7 +3,6 @@ Just for fun.
 
 Powered Napcat, ChatGPT and GNews.  
 
-
   
 Make sure that your Napcat is correctly installed and configured (Napcat listening on port 8081 and post through port 8080). Check https://github.com/NapNeko/NapCatQQ for help.  
 
