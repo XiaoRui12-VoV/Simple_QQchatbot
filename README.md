@@ -1,7 +1,7 @@
 # QQchatbot
-Just for fun.  
+Just for fun!  
 
-Powered Napcat, ChatGPT and GNews.  
+Powered by Napcat, ChatGPT and GNews.  
 
   
 
