@@ -22,7 +22,7 @@ def fetch_news_with_images(max_articles=3):
             url = article.get("url", "")
             content = article.get("content", "").strip()
             image_url = article.get("image")
-
+ 
             print(f"\n📰 {i}. {title}")
             print(f"📄 内容：{content}")
             print(f"🔗 链接：{url}")
