@@ -3,7 +3,7 @@ client = OpenAI()
 
 response = client.responses.create(
     model="gpt-4o",
-    input="你好吗"
+    input="hello"
 )
 
 print(response.output_text)
