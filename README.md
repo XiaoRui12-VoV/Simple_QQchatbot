@@ -1,6 +1,6 @@
 # QQchatbot
 A program built by XiaoRui12 just for fun!  
-
+ 
 Bot is powered by Napcat, ChatGPT and GNews.  
 
 This QQ bot can reply with ChatGPT (with history record), picture recognition based on ChatGPT, get latest news in three languges through command "/news ja", "/news en", "/news zh".  
